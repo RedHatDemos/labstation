@@ -1,0 +1,24 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1521747007
+nautilus-desktop-icon-size=96
+
+[trash]
+nautilus-icon-position-timestamp=1521747007
+nautilus-icon-position=56,326
+icon-scale=1
+
+[home]
+nautilus-icon-position-timestamp=1521747007
+nautilus-icon-position=56,226
+icon-scale=1
+
+[RHEL-7.4 Client.x86_64.volume]
+nautilus-icon-position=56,226
+icon-scale=1
+nautilus-icon-position-timestamp=1521724007
+
+[RHEL-7.4 Workstation.x86_64.volume]
+nautilus-icon-position=212,26
+icon-scale=1
+nautilus-icon-position-timestamp=1521726548
